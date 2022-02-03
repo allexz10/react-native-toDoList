@@ -4,7 +4,7 @@
 
 This is a my first project with React Native [React Native](https://reactnative.dev/) This is a simple todoList application with minimal options, you can add tasks and remove them. I also plan to add new options such as new screens, task editing, completed tasks, and more. The application is cross-platform and works well on Android and IOS
 
-![Header](https://github.com/allexz10/allexz10/blob/main/assets/RN-toDoList.gif)
+![Header](https://github.com/allexz10/allexz10/blob/main/assets/RN-toDoList.gif){:height="36px" width="36px"}
 
 
 
@@ -16,7 +16,7 @@ Instal the project - `npm install`
 
 Run the project - `npm start`
 
-`› Metro waiting on exp://192.168.31.6:19000
+› Metro waiting on exp://192.168.31.6:19000
 › Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
 
 › Press a │ open Android
@@ -27,7 +27,7 @@ Run the project - `npm start`
 › Press d │ show developer tools
 › shift+d │ toggle auto opening developer tools on startup (disabled)
 
-› Press ? │ show all commands`
+› Press ? │ show all commands
 
 
 In the project directory, you can run `npm start` to run app in development mode.<br>
