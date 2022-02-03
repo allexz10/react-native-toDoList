@@ -4,8 +4,7 @@
 
 This is a my first project with React Native [React Native](https://reactnative.dev/) This is a simple todoList application with minimal options, you can add tasks and remove them. I also plan to add new options such as new screens, task editing, completed tasks, and more. The application is cross-platform and works well on Android and IOS
 
-![Header]<img src="https://github.com/allexz10/allexz10/blob/main/assets/RN-toDoList.gif"  width="200" height="400" />
-
+<img src="https://github.com/allexz10/allexz10/blob/main/assets/RN-toDoList.gif"  width="300" height="600" />
 
 
 ## About
